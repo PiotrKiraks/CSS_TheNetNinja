@@ -1,7 +1,4 @@
-span [class]{
-    color:purple;
-}
+a:hover{
+    color: red;
 
-div[id]{
-    background: grey;
 }
