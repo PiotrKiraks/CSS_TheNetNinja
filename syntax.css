@@ -2,3 +2,12 @@ a:hover{
     color: red;
 
 }
+
+a:active{
+    color: orange;
+    
+}
+
+a:visited{
+    color: purple;
+}
